@@ -106,11 +106,15 @@ class ObtainInfo(unittest.TestCase):
                     schedule_list.append(schedule_actual)
                 # save the info in a file
                 actual_dict = courses_info.get(course, {})
-                actual_dict[nrc] = {'cupo': cupo, 'seccion': seccion, 'creditos': creditos, 'teacher': teacher, 'schedule': schedule_list}
+                actual_dict['course_name'] = course_name
+                actual_dict['creditos'] = creditos
+                secciones_dict = actual_dict.get('secciones', {})
+                secciones_dict[nrc] = {'cupo': cupo, 'seccion': seccion, 'teacher': teacher, 'room': schedule_room, 'schedule': schedule_list}
+                actual_dict['secciones'] = secciones_dict
                 courses_info[course] = actual_dict
         # save the info in a json file
         with open('output/'+filename[:-4]+'.json', 'w') as outfile:
-            json.dump(courses_info, outfile)
+            json.dump(courses_info, outfile, indent=4)
     def tearDown(self):
         self.driver.quit()
 

@@ -6,8 +6,8 @@ def get_info(filename):
 
 def proccess_schedules(info):
     for course in info:
-        for nrc in info[course]:
-            info[course][nrc]['schedule'] = process_schedule(info[course][nrc]['schedule'])
+        for nrc in info[course]['secciones']:
+            info[course]['secciones'][nrc]['schedule'] = process_schedule(info[course]['secciones'][nrc]['schedule'])
     return info
 
 def process_schedule(schedule):
@@ -31,6 +31,7 @@ if __name__ == '__main__':
     filename = 'prueba'
     route = 'output/' + filename + '.json'
     info = get_info(route)
+    print(info)
     info = proccess_schedules(info)
     course_list = list(info.keys())
     # write the processed info to a new file
