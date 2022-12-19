@@ -1,0 +1,721 @@
+{
+    "ISIS-1105": {
+        "12123": {
+            "cupo": "40",
+            "seccion": "1",
+            "creditos": "3",
+            "teacher": "DUITAMA CASTELLANOS JORGE ALEXANDER",
+            "schedule": {
+                "L": [
+                    "0930-1050"
+                ],
+                "V": [
+                    "0930-1050"
+                ]
+            }
+        },
+        "20537": {
+            "cupo": "40",
+            "seccion": "2",
+            "creditos": "3",
+            "teacher": "DUITAMA CASTELLANOS JORGE ALEXANDER",
+            "schedule": {
+                "L": [
+                    "1230-1350"
+                ],
+                "V": [
+                    "1230-1350"
+                ]
+            }
+        },
+        "46161": {
+            "cupo": "40",
+            "seccion": "3",
+            "creditos": "3",
+            "teacher": "MANRIQUE PIRAMANRIQUE RUBEN FRANCISCO",
+            "schedule": {
+                "L": [
+                    "1530-1650"
+                ],
+                "V": [
+                    "1530-1650"
+                ]
+            }
+        },
+        "58791": {
+            "cupo": "40",
+            "seccion": "4",
+            "creditos": "3",
+            "teacher": "SANABRIA ARDILA MATEO",
+            "schedule": {
+                "L": [
+                    "1100-1220"
+                ],
+                "V": [
+                    "1100-1220"
+                ]
+            }
+        }
+    },
+    "ISIS-2304": {
+        "25588": {
+            "cupo": "30",
+            "seccion": "1",
+            "creditos": "3",
+            "teacher": "AVILA CIFUENTES OSCAR JAVIER",
+            "schedule": {
+                "M": [
+                    "0930-1050"
+                ],
+                "J": [
+                    "0930-1050"
+                ]
+            }
+        },
+        "27390": {
+            "cupo": "30",
+            "seccion": "2",
+            "creditos": "3",
+            "teacher": "BRAVO CORDOBA GERMAN ENRIQUE",
+            "schedule": {
+                "M": [
+                    "1100-1220"
+                ],
+                "J": [
+                    "1100-1220"
+                ]
+            }
+        },
+        "25589": {
+            "cupo": "30",
+            "seccion": "3",
+            "creditos": "3",
+            "teacher": "JIMENEZ GUARIN CLAUDIA LUCIA",
+            "schedule": {
+                "M": [
+                    "1400-1520"
+                ],
+                "J": [
+                    "1400-1520"
+                ]
+            }
+        },
+        "40068": {
+            "cupo": "30",
+            "seccion": "4",
+            "creditos": "3",
+            "teacher": "SANTAMARIA RUIZ WILFREDY",
+            "schedule": {
+                "L": [
+                    "0630-0750"
+                ],
+                "M": [
+                    "0630-0750"
+                ]
+            }
+        }
+    },
+    "ISIS-2603": {
+        "36389": {
+            "cupo": "35",
+            "seccion": "1",
+            "creditos": "3",
+            "teacher": "VELASQUEZ YEPES SERGIO YODEB",
+            "schedule": {
+                "I": [
+                    "0630-0750"
+                ],
+                "V": [
+                    "0630-0750"
+                ]
+            }
+        },
+        "11183": {
+            "cupo": "24",
+            "seccion": "2",
+            "creditos": "3",
+            "teacher": "CASALLAS GUTIERREZ RUBBY",
+            "schedule": {
+                "M": [
+                    "0800-0920"
+                ],
+                "I": [
+                    "0800-0920"
+                ]
+            }
+        },
+        "58817": {
+            "cupo": "30",
+            "seccion": "3",
+            "creditos": "3",
+            "teacher": "GOMEZ CUBILLOS VIVIAN NATALIA",
+            "schedule": {
+                "M": [
+                    "0800-0920"
+                ],
+                "V": [
+                    "0800-0920"
+                ]
+            }
+        },
+        "27388": {
+            "cupo": "24",
+            "seccion": "4",
+            "creditos": "3",
+            "teacher": "BOCANEGRA GARCIA JOSE JOAQUIN",
+            "schedule": {
+                "I": [
+                    "1400-1520"
+                ],
+                "V": [
+                    "1400-1520"
+                ]
+            }
+        }
+    },
+    "ISIS-1404": {
+        "12125": {
+            "cupo": "24",
+            "seccion": "1",
+            "creditos": "3",
+            "teacher": "BELTRAN VELA GUILLERMO ANDRES",
+            "schedule": {
+                "I": [
+                    "0630-0750"
+                ],
+                "V": [
+                    "0630-0750"
+                ]
+            }
+        },
+        "12126": {
+            "cupo": "24",
+            "seccion": "2",
+            "creditos": "3",
+            "teacher": "BUITRAGO BARRETO LILIANA BEATRIZ",
+            "schedule": {
+                "M": [
+                    "0630-0750"
+                ],
+                "J": [
+                    "0630-0750"
+                ]
+            }
+        },
+        "54479": {
+            "cupo": "24",
+            "seccion": "3",
+            "creditos": "3",
+            "teacher": "MEJIA FLOREZ LUIS ENRIQUE",
+            "schedule": {
+                "L": [
+                    "0630-0750"
+                ],
+                "J": [
+                    "0630-0750"
+                ]
+            }
+        },
+        "18825": {
+            "cupo": "24",
+            "seccion": "4",
+            "creditos": "3",
+            "teacher": "MORENO REAL ANDRES",
+            "schedule": {
+                "I": [
+                    "0800-0920"
+                ],
+                "V": [
+                    "0800-0920"
+                ]
+            }
+        },
+        "30992": {
+            "cupo": "24",
+            "seccion": "5",
+            "creditos": "3",
+            "teacher": "VELANDIA RAMOS PAULA ANDREA",
+            "schedule": {
+                "M": [
+                    "0800-0920"
+                ],
+                "J": [
+                    "0800-0920"
+                ]
+            }
+        },
+        "36383": {
+            "cupo": "24",
+            "seccion": "6",
+            "creditos": "3",
+            "teacher": "GONZALEZ ROJAS OSCAR FERNANDO",
+            "schedule": {
+                "M": [
+                    "0930-1050"
+                ],
+                "J": [
+                    "0930-1050"
+                ]
+            }
+        },
+        "16846": {
+            "cupo": "24",
+            "seccion": "7",
+            "creditos": "3",
+            "teacher": "RUBIANO SALAMANCA DISNEY",
+            "schedule": {
+                "I": [
+                    "1100-1220"
+                ],
+                "V": [
+                    "1100-1220"
+                ]
+            }
+        },
+        "12124": {
+            "cupo": "24",
+            "seccion": "8",
+            "creditos": "3",
+            "teacher": "HERRERA SUESCUN LIZETH ANDREA",
+            "schedule": {
+                "M": [
+                    "1100-1220"
+                ],
+                "J": [
+                    "1100-1220"
+                ]
+            }
+        },
+        "57422": {
+            "cupo": "24",
+            "seccion": "9",
+            "creditos": "3",
+            "teacher": "ROJAS GOMEZ LUIS ALEJANDRO",
+            "schedule": {
+                "I": [
+                    "1230-1350"
+                ],
+                "J": [
+                    "1230-1350"
+                ]
+            }
+        },
+        "40069": {
+            "cupo": "24",
+            "seccion": "10",
+            "creditos": "3",
+            "teacher": "TRUJILLO RAMIREZ MONICA",
+            "schedule": {
+                "I": [
+                    "1230-1350"
+                ],
+                "V": [
+                    "1230-1350"
+                ]
+            }
+        },
+        "20689": {
+            "cupo": "24",
+            "seccion": "11",
+            "creditos": "3",
+            "teacher": "GOMEZ DIAZ RICARDO",
+            "schedule": {
+                "L": [
+                    "1230-1350"
+                ],
+                "V": [
+                    "1230-1350"
+                ]
+            }
+        },
+        "25611": {
+            "cupo": "24",
+            "seccion": "12",
+            "creditos": "3",
+            "teacher": "GONZALEZ ROJAS OSCAR FERNANDO",
+            "schedule": {
+                "M": [
+                    "1400-1520"
+                ],
+                "J": [
+                    "1400-1520"
+                ]
+            }
+        },
+        "15256": {
+            "cupo": "24",
+            "seccion": "13",
+            "creditos": "3",
+            "teacher": "RUIZ GOMEZ LAURA MARIA",
+            "schedule": {
+                "M": [
+                    "1700-1820"
+                ],
+                "J": [
+                    "1700-1820"
+                ]
+            }
+        },
+        "57418": {
+            "cupo": "24",
+            "seccion": "14",
+            "creditos": "3",
+            "teacher": "RESTREPO SARMIENTO JORGE ARTURO",
+            "schedule": {
+                "L": [
+                    "1700-1820"
+                ],
+                "I": [
+                    "1700-1820"
+                ]
+            }
+        },
+        "16847": {
+            "cupo": "24",
+            "seccion": "15",
+            "creditos": "3",
+            "teacher": "CUEVAS MARIN JOSE ORLANDO",
+            "schedule": {
+                "M": [
+                    "1530-1650"
+                ],
+                "J": [
+                    "1530-1650"
+                ]
+            }
+        },
+        "27392": {
+            "cupo": "24",
+            "seccion": "16",
+            "creditos": "3",
+            "teacher": "JAIMES GONZALEZ HENRY DAVID",
+            "schedule": {
+                "M": [
+                    "1830-1950"
+                ],
+                "J": [
+                    "1830-1950"
+                ]
+            }
+        }
+    },
+    "MATE-1207": {
+        "55483": {
+            "cupo": "45",
+            "seccion": "1",
+            "creditos": "3",
+            "teacher": "CAPASSO CASTRO ITALO",
+            "schedule": {
+                "L": [
+                    "1100-1220"
+                ],
+                "I": [
+                    "1100-1220"
+                ],
+                "V": [
+                    "1100-1220"
+                ]
+            }
+        },
+        "39054": {
+            "cupo": "32",
+            "seccion": "2",
+            "creditos": "3",
+            "teacher": "DANN SUSANNA",
+            "schedule": {
+                "M": [
+                    "1230-1350"
+                ],
+                "I": [
+                    "1300-1350"
+                ],
+                "J": [
+                    "1230-1350"
+                ],
+                "S": [
+                    "1300-1350"
+                ]
+            }
+        },
+        "39055": {
+            "cupo": "32",
+            "seccion": "3",
+            "creditos": "3",
+            "teacher": "DANN SUSANNA",
+            "schedule": {
+                "M": [
+                    "1230-1350"
+                ],
+                "I": [
+                    "1300-1350"
+                ],
+                "J": [
+                    "1230-1350"
+                ],
+                "V": [
+                    "1300-1350"
+                ]
+            }
+        },
+        "39056": {
+            "cupo": "32",
+            "seccion": "4",
+            "creditos": "3",
+            "teacher": "DANN SUSANNA",
+            "schedule": {
+                "M": [
+                    "1230-1350"
+                ],
+                "I": [
+                    "1300-1350"
+                ],
+                "J": [
+                    "1230-1350"
+                ],
+                "V": [
+                    "1300-1350"
+                ]
+            }
+        },
+        "58691": {
+            "cupo": "32",
+            "seccion": "5",
+            "creditos": "3",
+            "teacher": "SANABRIA MALAGON CAMILO",
+            "schedule": {
+                "M": [
+                    "1600-1650"
+                ],
+                "I": [
+                    "1530-1650"
+                ],
+                "J": [
+                    "1600-1650"
+                ],
+                "V": [
+                    "1530-1650"
+                ]
+            }
+        },
+        "39061": {
+            "cupo": "32",
+            "seccion": "10",
+            "creditos": "3",
+            "teacher": "SANABRIA MALAGON CAMILO",
+            "schedule": {
+                "M": [
+                    "1600-1650"
+                ],
+                "I": [
+                    "1530-1650"
+                ],
+                "V": [
+                    "1530-1650"
+                ],
+                "S": [
+                    "1600-1650"
+                ]
+            }
+        },
+        "39063": {
+            "cupo": "32",
+            "seccion": "12",
+            "creditos": "3",
+            "teacher": "SANABRIA MALAGON CAMILO",
+            "schedule": {
+                "M": [
+                    "1600-1650"
+                ],
+                "I": [
+                    "1530-1650"
+                ],
+                "J": [
+                    "1600-1650"
+                ],
+                "V": [
+                    "1530-1650"
+                ]
+            }
+        },
+        "41941": {
+            "cupo": "32",
+            "seccion": "13",
+            "creditos": "3",
+            "teacher": "GALINDO MART\u00cdNEZ CESAR NEYIT",
+            "schedule": {
+                "L": [
+                    "0800-0850"
+                ],
+                "M": [
+                    "0800-0920"
+                ],
+                "I": [
+                    "0800-0850"
+                ],
+                "J": [
+                    "0800-0920"
+                ]
+            }
+        },
+        "39064": {
+            "cupo": "32",
+            "seccion": "14",
+            "creditos": "3",
+            "teacher": "GALINDO MART\u00cdNEZ CESAR NEYIT",
+            "schedule": {
+                "M": [
+                    "0800-0920"
+                ],
+                "I": [
+                    "0800-0850"
+                ],
+                "J": [
+                    "0800-0920"
+                ],
+                "S": [
+                    "0800-0850"
+                ]
+            }
+        },
+        "39069": {
+            "cupo": "32",
+            "seccion": "15",
+            "creditos": "3",
+            "teacher": "GALINDO MART\u00cdNEZ CESAR NEYIT",
+            "schedule": {
+                "M": [
+                    "0800-0920"
+                ],
+                "I": [
+                    "0800-0850"
+                ],
+                "J": [
+                    "0800-0920"
+                ],
+                "V": [
+                    "0800-0850"
+                ]
+            }
+        },
+        "39068": {
+            "cupo": "32",
+            "seccion": "19",
+            "creditos": "3",
+            "teacher": "VELASCO GREGORY MAURICIO FERNANDO",
+            "schedule": {
+                "M": [
+                    "1000-1050"
+                ],
+                "I": [
+                    "0930-1050"
+                ],
+                "J": [
+                    "1000-1050"
+                ],
+                "V": [
+                    "0930-1050"
+                ]
+            }
+        },
+        "39067": {
+            "cupo": "32",
+            "seccion": "20",
+            "creditos": "3",
+            "teacher": "VELASCO GREGORY MAURICIO FERNANDO",
+            "schedule": {
+                "M": [
+                    "1000-1050"
+                ],
+                "I": [
+                    "0930-1050"
+                ],
+                "V": [
+                    "0930-1050"
+                ],
+                "S": [
+                    "1000-1050"
+                ]
+            }
+        },
+        "43085": {
+            "cupo": "32",
+            "seccion": "21",
+            "creditos": "3",
+            "teacher": "VELASCO GREGORY MAURICIO FERNANDO",
+            "schedule": {
+                "M": [
+                    "1000-1050"
+                ],
+                "I": [
+                    "0930-1050"
+                ],
+                "J": [
+                    "1000-1050"
+                ],
+                "V": [
+                    "0930-1050"
+                ]
+            }
+        },
+        "49296": {
+            "cupo": "32",
+            "seccion": "23",
+            "creditos": "3",
+            "teacher": "ANGEL CARDENAS JAIRO ANDRES",
+            "schedule": {
+                "L": [
+                    "1300-1350"
+                ],
+                "I": [
+                    "1230-1350"
+                ],
+                "J": [
+                    "1300-1350"
+                ],
+                "V": [
+                    "1230-1350"
+                ]
+            }
+        },
+        "39060": {
+            "cupo": "32",
+            "seccion": "24",
+            "creditos": "3",
+            "teacher": "ANGEL CARDENAS JAIRO ANDRES",
+            "schedule": {
+                "I": [
+                    "1230-1350"
+                ],
+                "J": [
+                    "1300-1350"
+                ],
+                "V": [
+                    "1230-1350"
+                ],
+                "S": [
+                    "1300-1350"
+                ]
+            }
+        },
+        "51469": {
+            "cupo": "32",
+            "seccion": "25",
+            "creditos": "3",
+            "teacher": "ANGEL CARDENAS JAIRO ANDRES",
+            "schedule": {
+                "L": [
+                    "1300-1350"
+                ],
+                "I": [
+                    "1230-1350"
+                ],
+                "J": [
+                    "1300-1350"
+                ],
+                "V": [
+                    "1230-1350"
+                ]
+            }
+        }
+    }
+}
